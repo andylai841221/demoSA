@@ -135,7 +135,7 @@ to {
 		<ul>
 			<form method="POST" action="per">
 				搜尋書名:<input type="text" name="search">
-			<button type="submit" class="btn btn-default">搜尋</button>
+			<button type="submit" class="btn btn-default">搜索</button>
 			</form>
 			
 			<form method="POST" action="au">
